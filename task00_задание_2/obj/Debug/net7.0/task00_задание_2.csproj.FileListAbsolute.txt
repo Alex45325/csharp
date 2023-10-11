@@ -1,0 +1,14 @@
+C:\Users\alexc\Desktop\C+\task00_задание_2\bin\Debug\net7.0\task00_задание_2.exe
+C:\Users\alexc\Desktop\C+\task00_задание_2\bin\Debug\net7.0\task00_задание_2.deps.json
+C:\Users\alexc\Desktop\C+\task00_задание_2\bin\Debug\net7.0\task00_задание_2.runtimeconfig.json
+C:\Users\alexc\Desktop\C+\task00_задание_2\bin\Debug\net7.0\task00_задание_2.dll
+C:\Users\alexc\Desktop\C+\task00_задание_2\bin\Debug\net7.0\task00_задание_2.pdb
+C:\Users\alexc\Desktop\C+\task00_задание_2\obj\Debug\net7.0\task00_задание_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\Desktop\C+\task00_задание_2\obj\Debug\net7.0\task00_задание_2.AssemblyInfoInputs.cache
+C:\Users\alexc\Desktop\C+\task00_задание_2\obj\Debug\net7.0\task00_задание_2.AssemblyInfo.cs
+C:\Users\alexc\Desktop\C+\task00_задание_2\obj\Debug\net7.0\task00_задание_2.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\C+\task00_задание_2\obj\Debug\net7.0\task00_задание_2.dll
+C:\Users\alexc\Desktop\C+\task00_задание_2\obj\Debug\net7.0\refint\task00_задание_2.dll
+C:\Users\alexc\Desktop\C+\task00_задание_2\obj\Debug\net7.0\task00_задание_2.pdb
+C:\Users\alexc\Desktop\C+\task00_задание_2\obj\Debug\net7.0\task00_задание_2.genruntimeconfig.cache
+C:\Users\alexc\Desktop\C+\task00_задание_2\obj\Debug\net7.0\ref\task00_задание_2.dll
