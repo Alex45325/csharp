@@ -1,0 +1,14 @@
+C:\Users\alexc\Desktop\C#\Класная работа\task22\obj\Debug\net7.0\task22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\Desktop\C#\Класная работа\task22\obj\Debug\net7.0\task22.AssemblyInfoInputs.cache
+C:\Users\alexc\Desktop\C#\Класная работа\task22\obj\Debug\net7.0\task22.AssemblyInfo.cs
+C:\Users\alexc\Desktop\C#\Класная работа\task22\obj\Debug\net7.0\task22.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\C#\Класная работа\task22\bin\Debug\net7.0\task22.exe
+C:\Users\alexc\Desktop\C#\Класная работа\task22\bin\Debug\net7.0\task22.deps.json
+C:\Users\alexc\Desktop\C#\Класная работа\task22\bin\Debug\net7.0\task22.runtimeconfig.json
+C:\Users\alexc\Desktop\C#\Класная работа\task22\bin\Debug\net7.0\task22.dll
+C:\Users\alexc\Desktop\C#\Класная работа\task22\bin\Debug\net7.0\task22.pdb
+C:\Users\alexc\Desktop\C#\Класная работа\task22\obj\Debug\net7.0\task22.dll
+C:\Users\alexc\Desktop\C#\Класная работа\task22\obj\Debug\net7.0\refint\task22.dll
+C:\Users\alexc\Desktop\C#\Класная работа\task22\obj\Debug\net7.0\task22.pdb
+C:\Users\alexc\Desktop\C#\Класная работа\task22\obj\Debug\net7.0\task22.genruntimeconfig.cache
+C:\Users\alexc\Desktop\C#\Класная работа\task22\obj\Debug\net7.0\ref\task22.dll

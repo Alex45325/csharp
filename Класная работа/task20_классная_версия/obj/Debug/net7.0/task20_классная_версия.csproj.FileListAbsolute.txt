@@ -1,0 +1,14 @@
+C:\Users\alexc\Desktop\C#\Класная работа\task20_классная_версия\bin\Debug\net7.0\task20_классная_версия.exe
+C:\Users\alexc\Desktop\C#\Класная работа\task20_классная_версия\bin\Debug\net7.0\task20_классная_версия.deps.json
+C:\Users\alexc\Desktop\C#\Класная работа\task20_классная_версия\bin\Debug\net7.0\task20_классная_версия.runtimeconfig.json
+C:\Users\alexc\Desktop\C#\Класная работа\task20_классная_версия\bin\Debug\net7.0\task20_классная_версия.dll
+C:\Users\alexc\Desktop\C#\Класная работа\task20_классная_версия\bin\Debug\net7.0\task20_классная_версия.pdb
+C:\Users\alexc\Desktop\C#\Класная работа\task20_классная_версия\obj\Debug\net7.0\task20_классная_версия.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\Desktop\C#\Класная работа\task20_классная_версия\obj\Debug\net7.0\task20_классная_версия.AssemblyInfoInputs.cache
+C:\Users\alexc\Desktop\C#\Класная работа\task20_классная_версия\obj\Debug\net7.0\task20_классная_версия.AssemblyInfo.cs
+C:\Users\alexc\Desktop\C#\Класная работа\task20_классная_версия\obj\Debug\net7.0\task20_классная_версия.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\C#\Класная работа\task20_классная_версия\obj\Debug\net7.0\task20_классная_версия.dll
+C:\Users\alexc\Desktop\C#\Класная работа\task20_классная_версия\obj\Debug\net7.0\refint\task20_классная_версия.dll
+C:\Users\alexc\Desktop\C#\Класная работа\task20_классная_версия\obj\Debug\net7.0\task20_классная_версия.pdb
+C:\Users\alexc\Desktop\C#\Класная работа\task20_классная_версия\obj\Debug\net7.0\task20_классная_версия.genruntimeconfig.cache
+C:\Users\alexc\Desktop\C#\Класная работа\task20_классная_версия\obj\Debug\net7.0\ref\task20_классная_версия.dll

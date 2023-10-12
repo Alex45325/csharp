@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "task20_классная_версия/1.0.0": {
+        "runtime": {
+          "task20_классная_версия.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task20_классная_версия/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
