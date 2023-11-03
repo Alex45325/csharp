@@ -1,0 +1,14 @@
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\Task_41\bin\Debug\net7.0\Task_41.exe
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\Task_41\bin\Debug\net7.0\Task_41.deps.json
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\Task_41\bin\Debug\net7.0\Task_41.runtimeconfig.json
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\Task_41\bin\Debug\net7.0\Task_41.dll
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\Task_41\bin\Debug\net7.0\Task_41.pdb
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\Task_41\obj\Debug\net7.0\Task_41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\Task_41\obj\Debug\net7.0\Task_41.AssemblyInfoInputs.cache
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\Task_41\obj\Debug\net7.0\Task_41.AssemblyInfo.cs
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\Task_41\obj\Debug\net7.0\Task_41.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\Task_41\obj\Debug\net7.0\Task_41.dll
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\Task_41\obj\Debug\net7.0\refint\Task_41.dll
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\Task_41\obj\Debug\net7.0\Task_41.pdb
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\Task_41\obj\Debug\net7.0\Task_41.genruntimeconfig.cache
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\Task_41\obj\Debug\net7.0\ref\Task_41.dll
