@@ -1,0 +1,14 @@
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\task68\bin\Debug\net7.0\task68.exe
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\task68\bin\Debug\net7.0\task68.deps.json
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\task68\bin\Debug\net7.0\task68.runtimeconfig.json
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\task68\bin\Debug\net7.0\task68.dll
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\task68\bin\Debug\net7.0\task68.pdb
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\task68\obj\Debug\net7.0\task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\task68\obj\Debug\net7.0\task68.AssemblyInfoInputs.cache
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\task68\obj\Debug\net7.0\task68.AssemblyInfo.cs
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\task68\obj\Debug\net7.0\task68.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\task68\obj\Debug\net7.0\task68.dll
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\task68\obj\Debug\net7.0\refint\task68.dll
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\task68\obj\Debug\net7.0\task68.pdb
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\task68\obj\Debug\net7.0\task68.genruntimeconfig.cache
+C:\Users\alexc\Desktop\C#\Домашнаяя работа\task68\obj\Debug\net7.0\ref\task68.dll
